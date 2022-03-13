@@ -130,4 +130,6 @@ dmypy.json
 
 # Bossruji
 /data
+/data/
 *.sqlite3
+*.pem
